@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Neuton';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Neuton Bold'), local('Neuton-Bold'), url(http://fonts.gstatic.com/s/neuton/v8/v8ddH4VthwRj7v3g9elwpqCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Neuton';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Neuton Extrabold'), local('Neuton-ExtraBold'), url(http://fonts.gstatic.com/s/neuton/v8/sFrCOZyTyEAHf4DVfROzbKCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}
